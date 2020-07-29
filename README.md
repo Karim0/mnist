@@ -37,4 +37,13 @@ The test results are as follows.
     <td>88.21%</td>
     <td>random_state=17<br>'max_depth': 16</td>
   </tr>
+  
+  <tr>
+    <th>CNN model (tensorflow)</th>
+    <td>6 min 13 s</td>
+    <td>99.32%</td>
+    <td>optimizer=Adam
+        loss=CategoricalCrossentropy</td>
+  </tr>
+  <img src="https://github.com/Karim0/mnist/blob/master/img/cnn_modal.png" alt="">
 </table>
