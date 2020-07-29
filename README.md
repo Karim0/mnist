@@ -46,5 +46,5 @@ The test results are as follows.
         loss=CategoricalCrossentropy</td>
   </tr>
 </table>
-# CNN model structure
- <img src="https://github.com/Karim0/mnist/blob/master/img/cnn_modal.png" alt="">
+<h2>CNN model structure</h2>
+<img src="https://github.com/Karim0/mnist/blob/master/img/cnn_modal.png" alt="">
