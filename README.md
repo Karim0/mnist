@@ -42,7 +42,7 @@ The test results are as follows.
     <th>CNN model (tensorflow)</th>
     <td>6 min 13 s</td>
     <td>99.32%</td>
-    <td>optimizer=Adam
+    <td>optimizer=Adam<br>
         loss=CategoricalCrossentropy</td>
   </tr>
 </table>
